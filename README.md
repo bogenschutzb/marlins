@@ -64,8 +64,8 @@ npm run build
 
 ## TO-DO
 - Add Tests
-- Fix Team Abbreviation
-- Add Manual Refresh Button (does Auto Refresh, can add if wanted)
+- Improve Error Handling
+- Add Manual Refresh Button (Auto refresh implemented, select date to refresh)
 
 ## License
 Copyright (c) 2025 Bradley Bogenschutz
