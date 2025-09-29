@@ -18,8 +18,6 @@ To run this project locally you need a recent Node.js and npm installation and G
 - clsx: ^2.1.1
 - cmdk: ^1.1.1
 - date-fns: ^4.1.0
-- embla-carousel-react: ^8.6.0
-- input-otp: ^1.4.2
 - lucide: ^0.544.0
 - lucide-react: ^0.525.0
 - next-themes: ^0.4.6
@@ -30,11 +28,9 @@ To run this project locally you need a recent Node.js and npm installation and G
 - react-hook-form: ^7.62.0
 - react-resizable-panels: ^3.0.3
 - react-router-dom: ^7.9.3
-- recharts: ^3.1.2
 - sonner: ^2.0.6
 - tailwind-merge: ^3.3.1
 - tailwindcss: ^4.1.11
-- vaul: ^1.1.2
 
 ### Development
 - @eslint/js: ^9.30.1
