@@ -46,7 +46,7 @@ const GameStats = () => {
         ) : hasNotStartedData ? (
           <NotStartedCard game={game} details={details} loading={loading} />
         ) : (
-            <div className="text-sm text-muted-foreground">No live data available.</div>
+            <div className="text-sm text-muted-foreground">Finding data...</div>
         )}      
       </div>
     );
